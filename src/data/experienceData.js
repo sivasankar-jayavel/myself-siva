@@ -1,17 +1,17 @@
 export const experienceData = [
   {
     id: 1,
-    company: "GUVI GEEK NETWORK PRIVATE LIMITED",
-    jobtitle: "MERN stack Trainee",
-    startYear: " 2022",
-    endYear: "2023",
+    company: "Bot2do Technologies",
+    jobtitle: "NodeJs - Backend Developer",
+    startYear: "Aug 2021",
+    endYear: "Mar 2023",
   },
 
   {
     id: 3,
-    company: "Udemy",
-    jobtitle: "Full Stack Trainee",
-    startYear: "2021",
-    endYear: "2022",
+    company: "AS Builders & JK Construction",
+    jobtitle: "Senior Civil Engineer",
+    startYear: "May 2018",
+    endYear: "June 2021",
   },
 ];
