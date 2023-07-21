@@ -16,4 +16,4 @@ root.render(
   </ThemeContextProvider>
 );
 
-reportWebVitals();
+reportWebVitals()

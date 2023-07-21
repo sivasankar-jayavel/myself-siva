@@ -4,7 +4,7 @@ export const experienceData = [
     company: "Bot2do Technologies",
     jobtitle: "NodeJs - Backend Developer",
     startYear: "Aug 2021",
-    endYear: "Mar 2023",
+    endYear: "July 2023",
   },
 
   {
