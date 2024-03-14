@@ -15,6 +15,8 @@ export const skillsData = [
   "Git",
   "Canva",
   "Figma",
+  "Unity",
+  "ThreeJS"
 ];
 
 // Choose  skills from below. Make sure it's in the same format and spelled correctly.
