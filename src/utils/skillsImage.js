@@ -58,7 +58,7 @@ import vue from '../assets/svg/skills/vue.svg'
 import vuetifyjs from '../assets/svg/skills/vuetifyjs.svg'
 import webix from '../assets/svg/skills/webix.svg'
 import wordpress from '../assets/svg/skills/wordpress.svg'
-
+import threejs from '../assets/svg/skills/SVGmix-z1Y9nW-threejs.svg'
 import azure from '../assets/svg/skills/azure.svg'
 import blender from '../assets/svg/skills/blender.svg'
 import fastify from '../assets/svg/skills/fastify.svg'
@@ -227,6 +227,8 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
+        case 'threejs':
+            return threejs;
         default:
             break;
     }
